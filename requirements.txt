@@ -1,0 +1,9 @@
+fastapi==0.115.8
+uvicorn[standart]
+python-dotenv==1.0.1
+loguru==0.7.3
+requests==2.32.3
+playwright==1.50.0
+playwright-stealth==1.0.6
+beautifulsoup4==4.13.3
+setuptools==75.8.0
